@@ -1,0 +1,21 @@
+{
+  "name": "test-mongo",
+  "description": "",
+  "main": "",
+  "authors": [
+    "YOUR NAME <YOUR EMAIL>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/MohamedJellali/React-Js-Checkpoint",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^4.6.0"
+  }
+}
